@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="School Management Record producer">b3250d9e875a1110ca321f4bbbbb35d2</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 17:42:48</sys_created_on>
+        <sys_id>430e05d6879a1110ca321f4bbbbb35f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.School Management Record producer</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sc_cat_item_category_430e05d6879a1110ca321f4bbbbb35f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 17:42:48</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</application>
+        <file_path/>
+        <instance_id>c9922604db021b80536ad5b0cf961936</instance_id>
+        <instance_name>dev58720</instance_name>
+        <name>sc_cat_item_category_430e05d6879a1110ca321f4bbbbb35f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="School Management Record producer">b3250d9e875a1110ca321f4bbbbb35d2</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-04 17:42:48</sys_created_on><sys_id>430e05d6879a1110ca321f4bbbbb35f4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.School Management Record producer</sys_name><sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package><sys_policy/><sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope><sys_update_name>sc_cat_item_category_430e05d6879a1110ca321f4bbbbb35f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-04 17:42:48</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1180544161</payload_hash>
+        <record_name>Can We Help You?.School Management Record producer</record_name>
+        <reverted_from/>
+        <source>c0530cd287961110ca321f4bbbbb3567</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 17:42:48</sys_created_on>
+        <sys_id>cb0e05d6879a1110ca321f4bbbbb35f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a417d4ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 17:42:48</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>430e05d69e9a11109fecd18b26e77cf7</update_guid>
+        <update_guid_history>430e05d69e9a11109fecd18b26e77cf7:1180544161</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.School Management Record producer">d96e89d6879a1110ca321f4bbbbb3566</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 17:44:19</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>3de346d4c0e743dca904a9682a63ba10</sys_id>
+        <sys_metadata>430e05d6879a1110ca321f4bbbbb35f4</sys_metadata>
+        <sys_name>Can We Help You?.School Management Record producer</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_scope_delete display_value="">1b67f07c9ab24438a2b3e65098302790</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_430e05d6879a1110ca321f4bbbbb35f4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_430e05d6879a1110ca321f4bbbbb35f4">cb0e05d6879a1110ca321f4bbbbb35f7</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

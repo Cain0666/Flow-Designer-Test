@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Required Staff" section_id="8f82909287d61110ca321f4bbbbb358c" sys_domain="global" table="x_900947_procure_0_school_management" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_t_staff</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:07</sys_created_on>
+            <sys_id>e374fcfa87521110ca321f4bbbbb35f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Required Staff" display_value="Required Staff" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">8f82909287d61110ca321f4bbbbb358c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-06 05:08:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nt_staff</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:07</sys_created_on>
+            <sys_id>e774fcfa87521110ca321f4bbbbb35f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Required Staff" display_value="Required Staff" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">8f82909287d61110ca321f4bbbbb358c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-06 05:08:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>prority_of_staff</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:07</sys_created_on>
+            <sys_id>eb74fcfa87521110ca321f4bbbbb35f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Required Staff" display_value="Required Staff" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">8f82909287d61110ca321f4bbbbb358c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-06 05:08:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Required Staff</caption>
+            <header>false</header>
+            <name>x_900947_procure_0_school_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 13:22:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f82909287d61110ca321f4bbbbb358c</sys_id>
+            <sys_name>x_900947_procure_0_school_management</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+            <sys_update_name>sys_ui_section_8f82909287d61110ca321f4bbbbb358c</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

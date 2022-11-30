@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">032ffbd6d122111000e09c9308622002</page>
+        <required_translations>[{"message":"Logout","comment":""},{"message":"Configure","comment":""},{"message":"UserMenu","comment":""},{"message":"Settings","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-17 16:52:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>032ffbd6cf2211106a59798b1f3cef04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_page_property_032ffbd6cf2211106a59798b1f3cef04</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-10-17 16:52:27</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_900947_procure_0.032ffbd6d122111000e09c9308622002.root.chrome_header</unique_name>
+        <value>{
+    "privatePage":{
+      "searchEnabled": true,
+       "userPrefsEnabled":true,
+       "currentScreenLinkConfiguration": {
+            "roles": ["admin"],
+            "position": 250
+        },
+       "globalTools":{
+          "collapsingMenuId":0,
+          "primaryItems":[
+             {
+                "label":"UserMenu",
+                "icon":"user",
+                "type":"menu",
+                "primaryDisplay":"icon",
+                "value":{
+                   "children":[
+                      {
+                         "label": {
+                          "translatable": true,
+                          "message":"Settings"
+                        },
+                         "position":100,
+                         "type":"navigation",
+                         "value":{
+                            "type":"route",
+                            "value":{
+                               "route":"settings",
+                               "fields":{
+                                  
+                               }
+                            }
+                         }
+                      },
+                      {                   
+                        "condition": {
+                          "roles": ["admin", "ui_builder_admin"]
+                        },
+                         "label":{
+                            "translatable": true,
+                            "message":"Configure"
+                          },
+                         "type":"navigation",
+                         "position":200,
+                         "primaryDisplay":"none",
+                         "value":{
+                            "type":"external",
+                            "opensWindow":"true",
+                            "value":{
+                               "href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=c5bbbde2c3121010f46b42583c40dd06"
+                            }
+                         }
+                      },
+                      {
+                         "label": {
+                            "translatable": true,
+                            "message":"Logout"
+                          },
+                         "position":500,
+                         "type":"navigation",
+                                "value":{
+                                  "type": "AUTH_ROUTE_BINDING",
+                                        "binding": {
+                                            "address": ["logout"],
+                                            "params": {"reload": true},
+                                            "default": "/logout.do"
+                                }
+                        }
+                      }
+                   ]
+                }
+             }
+          ],
+          "secondaryItems":[]
+       }
+    },
+    "publicPage":{
+      "menuEnabled": true,
+      "logoRoute": {
+        "type": "route",
+        "value": {
+          "route": "landing",
+          "fields":{}
+        }
+      }
+    }
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</application>
+        <file_path/>
+        <instance_id>c9922604db021b80536ad5b0cf961936</instance_id>
+        <instance_name>dev58720</instance_name>
+        <name>sys_ux_page_property_032ffbd6cf2211106a59798b1f3cef04</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">032ffbd6d122111000e09c9308622002</page><required_translations>[{"message":"Logout","comment":""},{"message":"Configure","comment":""},{"message":"UserMenu","comment":""},{"message":"Settings","comment":""}]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-10-17 16:52:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>032ffbd6cf2211106a59798b1f3cef04</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package><sys_policy/><sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope><sys_update_name>sys_ux_page_property_032ffbd6cf2211106a59798b1f3cef04</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-10-17 16:52:27</sys_updated_on><type>json</type><unique_name>x_900947_procure_0.032ffbd6d122111000e09c9308622002.root.chrome_header</unique_name><value>{
+    "privatePage":{
+      "searchEnabled": true,
+       "userPrefsEnabled":true,
+       "currentScreenLinkConfiguration": {
+            "roles": ["admin"],
+            "position": 250
+        },
+       "globalTools":{
+          "collapsingMenuId":0,
+          "primaryItems":[
+             {
+                "label":"UserMenu",
+                "icon":"user",
+                "type":"menu",
+                "primaryDisplay":"icon",
+                "value":{
+                   "children":[
+                      {
+                         "label": {
+                          "translatable": true,
+                          "message":"Settings"
+                        },
+                         "position":100,
+                         "type":"navigation",
+                         "value":{
+                            "type":"route",
+                            "value":{
+                               "route":"settings",
+                               "fields":{
+                                  
+                               }
+                            }
+                         }
+                      },
+                      {                   
+                        "condition": {
+                          "roles": ["admin", "ui_builder_admin"]
+                        },
+                         "label":{
+                            "translatable": true,
+                            "message":"Configure"
+                          },
+                         "type":"navigation",
+                         "position":200,
+                         "primaryDisplay":"none",
+                         "value":{
+                            "type":"external",
+                            "opensWindow":"true",
+                            "value":{
+                               "href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=c5bbbde2c3121010f46b42583c40dd06"
+                            }
+                         }
+                      },
+                      {
+                         "label": {
+                            "translatable": true,
+                            "message":"Logout"
+                          },
+                         "position":500,
+                         "type":"navigation",
+                                "value":{
+                                  "type": "AUTH_ROUTE_BINDING",
+                                        "binding": {
+                                            "address": ["logout"],
+                                            "params": {"reload": true},
+                                            "default": "/logout.do"
+                                }
+                        }
+                      }
+                   ]
+                }
+             }
+          ],
+          "secondaryItems":[]
+       }
+    },
+    "publicPage":{
+      "menuEnabled": true,
+      "logoRoute": {
+        "type": "route",
+        "value": {
+          "route": "landing",
+          "fields":{}
+        }
+      }
+    }
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>512083107</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>b76a143287021110ca321f4bbbbb355d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-23 16:58:35</sys_created_on>
+        <sys_id>a7af731a87221110ca321f4bbbbb3585</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1836b4962780000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>67af731a1e221110acc260807f413f85</update_guid>
+        <update_guid_history>67af731a1e221110acc260807f413f85:512083107</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 16:54:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>689da897971d4da2ac1a59fdc1b1b724</sys_id>
+        <sys_metadata>032ffbd6cf2211106a59798b1f3cef04</sys_metadata>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_scope_delete display_value="">1b67f07c9ab24438a2b3e65098302790</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_032ffbd6cf2211106a59798b1f3cef04</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_032ffbd6cf2211106a59798b1f3cef04">a7af731a87221110ca321f4bbbbb3585</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

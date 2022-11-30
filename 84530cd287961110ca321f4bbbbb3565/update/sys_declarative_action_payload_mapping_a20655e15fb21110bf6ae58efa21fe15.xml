@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Reject">ea0655e1c9b21110580cf8bec792cf15</action_payload_definition>
+        <label>Reject Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-27 06:53:44</sys_created_on>
+        <sys_id>a20655e15fb21110bf6ae58efa21fe15</sys_id>
+        <sys_name>Reject Evam</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_a20655e15fb21110bf6ae58efa21fe15</sys_update_name>
+    </sys_declarative_action_payload_mapping>
+</record_update>

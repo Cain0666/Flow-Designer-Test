@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Hospital Management</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Hospital Management</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">339244f687021110ca321f4bbbbb3551</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 12:50:41</sys_created_on>
+        <sys_id>772b8c9a87961110ca321f4bbbbb35fb</sys_id>
+        <sys_name>Hospital Management</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_wizard_answer_772b8c9a87961110ca321f4bbbbb35fb</sys_update_name>
+        <table/>
+        <target_url>x_900947_procure_0_hospital_management.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

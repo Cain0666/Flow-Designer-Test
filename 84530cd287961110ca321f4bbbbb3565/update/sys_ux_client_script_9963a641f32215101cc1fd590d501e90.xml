@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Article page">9d63a6417d221510d54e7f7d48a4f991</macroponent>
+        <name>Show Submit Comment Alert</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({
+    api
+}) {
+    api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+        items: [{
+            id: "submitCommentAlert",
+            status: "info",
+            icon: "info-circle-outline",
+            content: "Comment posted.",
+            action: {
+                type: "dismiss"
+            }
+        }],
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-13 12:59:05</sys_created_on>
+        <sys_id>9963a641f32215101cc1fd590d501e90</sys_id>
+        <sys_name>Show Submit Comment Alert</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_client_script_9963a641f32215101cc1fd590d501e90</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

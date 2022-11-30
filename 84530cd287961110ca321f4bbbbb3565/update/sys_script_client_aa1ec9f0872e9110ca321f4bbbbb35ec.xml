@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>User should not be able to submit zero items in request</description>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Submit Validation </name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+        g_form.addInfoMessage("The Total Number of Services and Goods cannot be Zero or The Request will not be Accepted");
+		//action.setRedirectURL(current);
+    }]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 12:16:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa1ec9f0872e9110ca321f4bbbbb35ec</sys_id>
+        <sys_name>Submit Validation </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_script_client_aa1ec9f0872e9110ca321f4bbbbb35ec</sys_update_name>
+        <table>x_900947_procure_0_school_management</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

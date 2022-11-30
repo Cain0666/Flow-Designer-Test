@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">220655e1c6b211100c77daf1d021e70b</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">ea0655e1f9b21110d36c13a4651dc708</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-27 06:53:42</sys_created_on>
+        <sys_id>e60655e1bbb21110a977a1b1312dbf09</sys_id>
+        <sys_name/>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_e60655e1bbb21110a977a1b1312dbf09</sys_update_name>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

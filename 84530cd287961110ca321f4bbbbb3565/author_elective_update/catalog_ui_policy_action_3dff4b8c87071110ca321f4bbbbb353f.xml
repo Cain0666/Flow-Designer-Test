@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Add or Remove">2854427387361110ca321f4bbbbb351d</catalog_item>
+        <catalog_variable>IO:cd074af387361110ca321f4bbbbb3541</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 10:11:12</sys_created_on>
+        <sys_id>3dff4b8c87071110ca321f4bbbbb353f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>add_members</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_3dff4b8c87071110ca321f4bbbbb353f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 10:11:12</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Add or Remove UI policy">c5db078887071110ca321f4bbbbb3570</ui_policy>
+        <variable>add_members</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</application>
+        <file_path/>
+        <instance_id>c9922604db021b80536ad5b0cf961936</instance_id>
+        <instance_name>dev58720</instance_name>
+        <name>catalog_ui_policy_action_3dff4b8c87071110ca321f4bbbbb353f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Add or Remove">2854427387361110ca321f4bbbbb351d</catalog_item><catalog_variable>IO:cd074af387361110ca321f4bbbbb3541</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-04 10:11:12</sys_created_on><sys_id>3dff4b8c87071110ca321f4bbbbb353f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>add_members</sys_name><sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package><sys_policy/><sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope><sys_update_name>catalog_ui_policy_action_3dff4b8c87071110ca321f4bbbbb353f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-04 10:11:12</sys_updated_on><table/><ui_policy display_value="Add or Remove UI policy">c5db078887071110ca321f4bbbbb3570</ui_policy><variable>add_members</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-153899567</payload_hash>
+        <record_name>add_members</record_name>
+        <reverted_from/>
+        <source>c0530cd287961110ca321f4bbbbb3567</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 10:11:12</sys_created_on>
+        <sys_id>f1ff4b8c87071110ca321f4bbbbb3543</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184421f84cb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 10:11:12</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>79ff4b8c7a07111090d7fc9622ef6c42</update_guid>
+        <update_guid_history>79ff4b8c7a07111090d7fc9622ef6c42:-153899567</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="add_members">68011bcc87071110ca321f4bbbbb35b9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 10:15:45</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>17859c9462f64bb386f5a1aefd9bdfd1</sys_id>
+        <sys_metadata>3dff4b8c87071110ca321f4bbbbb353f</sys_metadata>
+        <sys_name>add_members</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_scope_delete display_value="">1b67f07c9ab24438a2b3e65098302790</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_3dff4b8c87071110ca321f4bbbbb353f</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_3dff4b8c87071110ca321f4bbbbb353f">f1ff4b8c87071110ca321f4bbbbb3543</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Add or Remove">2854427387361110ca321f4bbbbb351d</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 09:16:49</sys_created_on>
+        <sys_id>0d8343c087071110ca321f4bbbbb3562</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add or Remove.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_0d8343c087071110ca321f4bbbbb3562</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 09:16:49</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</application>
+        <file_path/>
+        <instance_id>c9922604db021b80536ad5b0cf961936</instance_id>
+        <instance_name>dev58720</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_0d8343c087071110ca321f4bbbbb3562</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Add or Remove">2854427387361110ca321f4bbbbb351d</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-04 09:16:49</sys_created_on><sys_id>0d8343c087071110ca321f4bbbbb3562</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Add or Remove.Users with 'Admin' Role</sys_name><sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package><sys_policy/><sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_0d8343c087071110ca321f4bbbbb3562</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-04 09:16:49</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1154587829</payload_hash>
+        <record_name>Add or Remove.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>c0530cd287961110ca321f4bbbbb3567</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 09:16:49</sys_created_on>
+        <sys_id>418343c087071110ca321f4bbbbb3566</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18441edb9af0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 09:16:49</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>c58343c0dc0711102d8e089af0ef5d65</update_guid>
+        <update_guid_history>c58343c0dc0711102d8e089af0ef5d65:1154587829</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Add or Remove.Users with 'Admin' Role">0a8383c087071110ca321f4bbbbb352f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 09:16:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>5944be58f9ff47acb3ab2bb86e619410</sys_id>
+        <sys_metadata>0d8343c087071110ca321f4bbbbb3562</sys_metadata>
+        <sys_name>Add or Remove.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_scope_delete display_value="">1b67f07c9ab24438a2b3e65098302790</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_0d8343c087071110ca321f4bbbbb3562</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_0d8343c087071110ca321f4bbbbb3562">418343c087071110ca321f4bbbbb3566</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

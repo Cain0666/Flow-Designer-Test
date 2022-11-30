@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Procurement of Supplies and Services  Config">fe2fbbd687221110ca321f4bbbbb35d9</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Activity</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(task)">c72ffbd6e72211108b862e2849047a0f</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_tas_activity</route_type>
+        <screen_type display_value="Activity">0b2ffbd6a0221110537b13a9f6324a0d</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-17 16:52:25</sys_created_on>
+        <sys_id>032ffbd65d22111033bffea0d368020d</sys_id>
+        <sys_name>Activity</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_app_route_032ffbd65d22111033bffea0d368020d</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=032ffbd65d22111033bffea0d368020d"/>
+</record_update>

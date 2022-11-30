@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">2a0655e146b21110b99c8ac90c7c5615</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">260655e1f9b21110b7a74d83fda01810</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-27 06:53:43</sys_created_on>
+        <sys_id>a60655e195b21110dd029760956efb10</sys_id>
+        <sys_name/>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_a60655e195b21110dd029760956efb10</sys_update_name>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

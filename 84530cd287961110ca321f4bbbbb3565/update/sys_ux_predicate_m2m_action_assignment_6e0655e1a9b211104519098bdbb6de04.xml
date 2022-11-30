@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">6a0655e1a5b211104693bcaba10feb15</declarative_action_assignment>
+        <predicate display_value="My Tasks">e60655e1afb2111056c82ae9f6bbad08</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-27 06:53:44</sys_created_on>
+        <sys_id>6e0655e1a9b211104519098bdbb6de04</sys_id>
+        <sys_name/>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_6e0655e1a9b211104519098bdbb6de04</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

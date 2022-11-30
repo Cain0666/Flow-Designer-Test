@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_900947_procure_0_hospital_management">u_1progressINu_1requested,u_1review,u_1waiting_for_approval,u_1approved,u_1rejected,u_1out_of_delivery,u_1delivered<item display_value="u_1requested,u_1review,u_1waiting_for_approval,u_1approved,u_1rejected,u_1out_of_delivery,u_1delivered" endquery="false" field="u_1progress" goto="false" newquery="false" operator="IN" or="false" value="u_1requested,u_1review,u_1waiting_for_approval,u_1approved,u_1rejected,u_1out_of_delivery,u_1delivered"/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {}]]></script_false>
+        <script_true><![CDATA[function onCondition() {}]]></script_true>
+        <set_values/>
+        <short_description>Wont be able to edit the number after the amount is requested </short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 07:34:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8bb2ee1987ae1510ca321f4bbbbb35ea</sys_id>
+        <sys_name>Wont be able to edit the number after the amount is requested </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ui_policy_8bb2ee1987ae1510ca321f4bbbbb35ea</sys_update_name>
+        <table>x_900947_procure_0_hospital_management</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

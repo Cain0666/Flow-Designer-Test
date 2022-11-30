@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Procurement of Supplies and Services for Hospital Config">0d63a64187221510ca321f4bbbbb356a</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Additional details">9563a641b7221510d87088b529ff418a</macroponent>
+        <macroponent_config>{
+  "sysId" : "@context.props.sysId",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Additional details Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(request)">1d63a6411d22151041d5e6b278f76593</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Additional details">1163a64153221510628eba6534d3c893</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-13 12:59:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd63a6419e221510fffa102bac4e0287</sys_id>
+        <sys_name>Additional details Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_screen_dd63a6419e221510fffa102bac4e0287</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=dd63a6419e221510fffa102bac4e0287"/>
+</record_update>

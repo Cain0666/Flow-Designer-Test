@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Procurement of Goods And Services - Container 1">5be415a187b21110ca321f4bbbbb3507</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-27 06:50:35</sys_created_on>
+        <sys_id>49551d6187b21110ca321f4bbbbb35ec</sys_id>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sp_row_49551d6187b21110ca321f4bbbbb35ec</sys_update_name>
+    </sp_row>
+</record_update>

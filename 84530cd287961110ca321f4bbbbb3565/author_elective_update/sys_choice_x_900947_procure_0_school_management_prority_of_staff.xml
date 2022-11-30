@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="prority_of_staff" table="x_900947_procure_0_school_management" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>prority_of_staff</element>
+            <name>x_900947_procure_0_school_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_name>prority_of_staff</sys_name>
+            <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+            <sys_update_name>sys_choice_x_900947_procure_0_school_management_prority_of_staff</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>prority_of_staff</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1-Critial</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>prority_of_staff</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2-High</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>prority_of_staff</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3-Medium</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>prority_of_staff</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4-Low</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>prority_of_staff</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5-Planning</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>5</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

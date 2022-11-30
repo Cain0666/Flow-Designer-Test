@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="progress" table="x_900947_procure_0_school_management" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>progress</element>
+            <name>x_900947_procure_0_school_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_name>progress</sys_name>
+            <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+            <sys_update_name>sys_choice_x_900947_procure_0_school_management_progress</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-12 05:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>u_open</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>u_requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Review</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>u_review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Waiting for Approval</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>u_waiting_for_approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>u_approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-06 05:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>u_rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Out for Delivery</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-12 05:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>u_out_for_delivery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delivered</label>
+            <language>en</language>
+            <name>x_900947_procure_0_school_management</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-12 05:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>u_delivered</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

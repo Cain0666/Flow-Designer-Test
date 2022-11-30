@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c782909287d61110ca321f4bbbbb358d" sys_domain="global" table="x_900947_procure_0_school_management" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 13:22:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b82909287d61110ca321f4bbbbb35ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_school_management" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">c782909287d61110ca321f4bbbbb358d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">974b809a87961110ca321f4bbbbb35de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 13:22:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 13:22:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d382909287d61110ca321f4bbbbb35cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_school_management" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">c782909287d61110ca321f4bbbbb358d</sys_ui_form>
+            <sys_ui_section caption="Required Stationary" display_value="Required Stationary" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">0b82909287d61110ca321f4bbbbb358b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 13:22:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 13:22:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b82909287d61110ca321f4bbbbb35d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_school_management" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">c782909287d61110ca321f4bbbbb358d</sys_ui_form>
+            <sys_ui_section caption="Required Furniture" display_value="Required Furniture" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">c382909287d61110ca321f4bbbbb358c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 13:22:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 13:22:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d382909287d61110ca321f4bbbbb35d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_school_management" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">c782909287d61110ca321f4bbbbb358d</sys_ui_form>
+            <sys_ui_section caption="Required Staff" display_value="Required Staff" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">8f82909287d61110ca321f4bbbbb358c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 13:22:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 16:58:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32f3895e875a1110ca321f4bbbbb35b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_school_management" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">c782909287d61110ca321f4bbbbb358d</sys_ui_form>
+            <sys_ui_section caption="Work Notes" display_value="Work Notes" name="x_900947_procure_0_school_management" sys_domain="global" view="Default view">a6f3895e875a1110ca321f4bbbbb35b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 16:58:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_900947_procure_0_school_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 13:22:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c782909287d61110ca321f4bbbbb358d</sys_id>
+            <sys_name>x_900947_procure_0_school_management</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c782909287d61110ca321f4bbbbb358d</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

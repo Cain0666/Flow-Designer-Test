@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Procurement of School Goods and Services.">b3250d9e875a1110ca321f4bbbbb35d2</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 18:04:08</sys_created_on>
+        <sys_id>9fe29dda879a1110ca321f4bbbbb3567</sys_id>
+        <sys_name>Services.School Management Record producer</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sc_cat_item_category_9fe29dda879a1110ca321f4bbbbb3567</sys_update_name>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="65799b8587e21510ca321f4bbbbb356c" sys_domain="global" table="x_900947_procure_0_hospital_management" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-13 16:55:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35799b8587e21510ca321f4bbbbb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_hospital_management" name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">65799b8587e21510ca321f4bbbbb356c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">24442e8187221510ca321f4bbbbb3532</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-13 16:55:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-13 16:55:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1799b8587e21510ca321f4bbbbb3570</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_hospital_management" name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">65799b8587e21510ca321f4bbbbb356c</sys_ui_form>
+            <sys_ui_section caption="Required Medication" display_value="Required Medication" name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">25799b8587e21510ca321f4bbbbb356a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-13 16:55:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-13 16:55:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5799b8587e21510ca321f4bbbbb3580</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_hospital_management" name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">65799b8587e21510ca321f4bbbbb356c</sys_ui_form>
+            <sys_ui_section caption="Required Medical Equipment" display_value="Required Medical Equipment" name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">2d799b8587e21510ca321f4bbbbb356b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-13 16:55:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-13 16:57:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48e913c587e21510ca321f4bbbbb35f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_hospital_management" name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">65799b8587e21510ca321f4bbbbb356c</sys_ui_form>
+            <sys_ui_section caption="Required Staff " display_value="Required Staff " name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">c4e913c587e21510ca321f4bbbbb35ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-13 16:57:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-13 16:57:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04e953c587e21510ca321f4bbbbb3540</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_hospital_management" name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">65799b8587e21510ca321f4bbbbb356c</sys_ui_form>
+            <sys_ui_section caption="Work Notes" display_value="Work Notes" name="x_900947_procure_0_hospital_management" sys_domain="global" view="Default view">80e913c587e21510ca321f4bbbbb35ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-13 16:57:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_900947_procure_0_hospital_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-13 16:55:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65799b8587e21510ca321f4bbbbb356c</sys_id>
+            <sys_name>x_900947_procure_0_hospital_management</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+            <sys_update_name>sys_ui_form_sections_65799b8587e21510ca321f4bbbbb356c</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

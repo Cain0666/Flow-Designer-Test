@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>GLIDE_FORM_1_SET_MANDATORY_RELAY_0b2ffbd607221110f564a672ca0e9206</event_name>
+        <interfaces/>
+        <label>Glide Form 1 SET_MANDATORY Relay (Tasks Default)</label>
+        <props>[{"name":"fieldName","fieldType":"string","label":"Field Name"},{"name":"mandatory","fieldType":"boolean","label":"Mandatory"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-17 16:52:26</sys_created_on>
+        <sys_id>cf2ffbd6a2221110447e45b54084a805</sys_id>
+        <sys_name>Glide Form 1 SET_MANDATORY Relay (Tasks Default)</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_event_cf2ffbd6a2221110447e45b54084a805</sys_update_name>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf2ffbd6a2221110447e45b54084a805"/>
+</record_update>

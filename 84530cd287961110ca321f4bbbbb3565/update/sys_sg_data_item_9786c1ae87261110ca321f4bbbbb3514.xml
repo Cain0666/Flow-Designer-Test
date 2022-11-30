@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>School Goods And Services Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 22:04:15</sys_created_on>
+        <sys_id>9786c1ae87261110ca321f4bbbbb3514</sys_id>
+        <sys_name>School Goods And Services Data Item</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_sg_data_item_9786c1ae87261110ca321f4bbbbb3514</sys_update_name>
+        <table>x_900947_procure_0_school_management</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=9786c1ae87261110ca321f4bbbbb3514"/>
+</record_update>

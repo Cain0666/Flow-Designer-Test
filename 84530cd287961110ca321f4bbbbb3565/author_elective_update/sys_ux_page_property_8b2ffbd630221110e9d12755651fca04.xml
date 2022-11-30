@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>global_search_configurations</name>
+        <page display_value="">032ffbd6d122111000e09c9308622002</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-17 16:52:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8b2ffbd630221110e9d12755651fca04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_page_property_8b2ffbd630221110e9d12755651fca04</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-10-17 16:52:25</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_900947_procure_0.032ffbd6d122111000e09c9308622002.root.global_search_configurations</unique_name>
+        <value>{&#13;
+  "globalSearchContextConfigId": "00731b9d5b231010d9a5ce1a8581c7dd"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</application>
+        <file_path/>
+        <instance_id>c9922604db021b80536ad5b0cf961936</instance_id>
+        <instance_name>dev58720</instance_name>
+        <name>sys_ux_page_property_8b2ffbd630221110e9d12755651fca04</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>global_search_configurations</name><page display_value="">032ffbd6d122111000e09c9308622002</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-10-17 16:52:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>8b2ffbd630221110e9d12755651fca04</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package><sys_policy/><sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope><sys_update_name>sys_ux_page_property_8b2ffbd630221110e9d12755651fca04</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-10-17 16:52:25</sys_updated_on><type>json</type><unique_name>x_900947_procure_0.032ffbd6d122111000e09c9308622002.root.global_search_configurations</unique_name><value>{&#13;
+  "globalSearchContextConfigId": "00731b9d5b231010d9a5ce1a8581c7dd"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1229059112</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source>b76a143287021110ca321f4bbbbb355d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-23 16:58:35</sys_created_on>
+        <sys_id>27afbb1a87221110ca321f4bbbbb3513</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1836b4962780000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>e3afbb1a912211101586b8e19f811713</update_guid>
+        <update_guid_history>e3afbb1a912211101586b8e19f811713:-1229059112</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 16:54:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>00a072a7ef5d45aab9ffc2e4d2777164</sys_id>
+        <sys_metadata>8b2ffbd630221110e9d12755651fca04</sys_metadata>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_scope_delete display_value="">1b67f07c9ab24438a2b3e65098302790</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_8b2ffbd630221110e9d12755651fca04</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_8b2ffbd630221110e9d12755651fca04">27afbb1a87221110ca321f4bbbbb3513</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

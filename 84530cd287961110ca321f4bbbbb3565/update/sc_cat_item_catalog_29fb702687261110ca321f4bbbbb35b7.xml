@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Procurement of Hospital Goods and Services.">7565fc2e87e21110ca321f4bbbbb3596</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 21:17:59</sys_created_on>
+        <sys_id>29fb702687261110ca321f4bbbbb35b7</sys_id>
+        <sys_name>Service Catalog.Procurement of Hospital Goods and Services.</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_29fb702687261110ca321f4bbbbb35b7</sys_update_name>
+    </sc_cat_item_catalog>
+</record_update>

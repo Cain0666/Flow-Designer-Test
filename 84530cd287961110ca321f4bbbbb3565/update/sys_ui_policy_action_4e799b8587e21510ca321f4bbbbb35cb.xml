@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_1rejection_comments</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-13 16:55:15</sys_created_on>
+        <sys_id>4e799b8587e21510ca321f4bbbbb35cb</sys_id>
+        <sys_name>u_1rejection_comments</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ui_policy_action_4e799b8587e21510ca321f4bbbbb35cb</sys_update_name>
+        <table>x_900947_procure_0_hospital_management</table>
+        <ui_policy display_value="Reason for rejection">4e799b8587e21510ca321f4bbbbb35c7</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
