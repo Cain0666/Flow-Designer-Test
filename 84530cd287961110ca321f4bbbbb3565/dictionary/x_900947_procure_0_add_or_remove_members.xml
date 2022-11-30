@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="598ab9f787f21110ca321f4bbbbb357a" label="Add or Remove Members" max_length="40" name="x_900947_procure_0_add_or_remove_members" type="collection">
+        <element label="From Group(3)" max_length="32" name="from_group_3" reference="sys_user_group" type="reference"/>
+        <element label="Add Multiple Users" max_length="1024" name="multi_add" reference="sys_user" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="from Group(1)" max_length="32" name="remove" reference="sys_user_group" type="reference"/>
+        <element label="Remove(2)" max_length="32" name="remove_2" reference="sys_user" type="reference"/>
+        <element label="Remove(3)" max_length="1024" name="remove_3" reference="sys_user" type="glide_list"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="to Group(2)" max_length="32" name="to_grou0" reference="sys_user_group" type="reference"/>
+        <element label="to Group(1)" max_length="32" name="to_group" reference="sys_user_group" type="reference"/>
+        <element label="from Group(2)" max_length="32" name="to_group_2" reference="sys_user_group" type="reference"/>
+        <element label="To Group(3)" max_length="32" name="to_group_3" reference="sys_user_group" type="reference"/>
+        <element label="Add(1)" max_length="32" name="u_add" reference="sys_user" type="reference"/>
+        <element label="Add(2)" max_length="32" name="u_add1" reference="sys_user" type="reference"/>
+        <element label="Remove(1)" max_length="32" name="u_remove" reference="sys_user" type="reference"/>
+        <element label="Remove Multi user" max_length="1024" name="u_remove_m_u" reference="sys_user" type="glide_list"/>
+        <index name="index">
+            <element name="from_group_3"/>
+        </index>
+        <index name="index2">
+            <element name="remove"/>
+        </index>
+        <index name="index3">
+            <element name="remove_2"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index5">
+            <element name="to_grou0"/>
+        </index>
+        <index name="index6">
+            <element name="to_group"/>
+        </index>
+        <index name="index7">
+            <element name="to_group_2"/>
+        </index>
+        <index name="index8">
+            <element name="to_group_3"/>
+        </index>
+        <index name="index9">
+            <element name="u_add"/>
+        </index>
+        <index name="index10">
+            <element name="u_add1"/>
+        </index>
+        <index name="index11">
+            <element name="u_remove"/>
+        </index>
+    </element>
+</database>

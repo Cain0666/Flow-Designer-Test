@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Add or Remove">2854427387361110ca321f4bbbbb351d</sc_cat_item>
+        <sc_category display_value="Role Delegation">496a3a7e0a0a0bc00089b39df14eb56e</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 10:36:07</sys_created_on>
+        <sys_id>851cc63b87361110ca321f4bbbbb359f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Role Delegation.Add or Remove</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sc_cat_item_category_851cc63b87361110ca321f4bbbbb359f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 10:36:07</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</application>
+        <file_path/>
+        <instance_id>c9922604db021b80536ad5b0cf961936</instance_id>
+        <instance_name>dev58720</instance_name>
+        <name>sc_cat_item_category_851cc63b87361110ca321f4bbbbb359f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Add or Remove">2854427387361110ca321f4bbbbb351d</sc_cat_item><sc_category display_value="Role Delegation">496a3a7e0a0a0bc00089b39df14eb56e</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-03 10:36:07</sys_created_on><sys_id>851cc63b87361110ca321f4bbbbb359f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Role Delegation.Add or Remove</sys_name><sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package><sys_policy/><sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope><sys_update_name>sc_cat_item_category_851cc63b87361110ca321f4bbbbb359f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-03 10:36:07</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-2145137178</payload_hash>
+        <record_name>Role Delegation.Add or Remove</record_name>
+        <reverted_from/>
+        <source>c0530cd287961110ca321f4bbbbb3567</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 10:36:07</sys_created_on>
+        <sys_id>cd1cc63b87361110ca321f4bbbbb35a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1843d0ff85b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 10:36:07</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>451cc63b28361110163e3bb81c6b1ea2</update_guid>
+        <update_guid_history>451cc63b28361110163e3bb81c6b1ea2:-2145137178</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Role Delegation.Add or Remove">137c8e3b87361110ca321f4bbbbb3516</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 10:37:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1107ee55f68041a3b833ac18e8b74ee1</sys_id>
+        <sys_metadata>851cc63b87361110ca321f4bbbbb359f</sys_metadata>
+        <sys_name>Role Delegation.Add or Remove</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_scope_delete display_value="">1b67f07c9ab24438a2b3e65098302790</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_851cc63b87361110ca321f4bbbbb359f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_851cc63b87361110ca321f4bbbbb359f">cd1cc63b87361110ca321f4bbbbb35a2</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

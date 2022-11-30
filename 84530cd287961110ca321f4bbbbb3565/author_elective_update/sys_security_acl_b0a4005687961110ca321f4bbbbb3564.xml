@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_900947_procure_0_school_management</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 12:22:04</sys_created_on>
+        <sys_id>b0a4005687961110ca321f4bbbbb3564</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_900947_procure_0_school_management</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_security_acl_b0a4005687961110ca321f4bbbbb3564</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 12:22:04</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</application>
+        <file_path/>
+        <instance_id>c9922604db021b80536ad5b0cf961936</instance_id>
+        <instance_name>dev58720</instance_name>
+        <name>sys_security_acl_b0a4005687961110ca321f4bbbbb3564</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_900947_procure_0_school_management</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-04 12:22:04</sys_created_on><sys_id>b0a4005687961110ca321f4bbbbb3564</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_900947_procure_0_school_management</sys_name><sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package><sys_policy/><sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope><sys_update_name>sys_security_acl_b0a4005687961110ca321f4bbbbb3564</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-04 12:22:04</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1043960283</payload_hash>
+        <record_name>x_900947_procure_0_school_management</record_name>
+        <reverted_from/>
+        <source>c0530cd287961110ca321f4bbbbb3567</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 12:22:04</sys_created_on>
+        <sys_id>fca4005687961110ca321f4bbbbb3565</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a2f2316d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 12:22:04</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>38a40056a19611108992fc7fda358b65</update_guid>
+        <update_guid_history>38a40056a19611108992fc7fda358b65:1043960283</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-06 05:15:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>5e7d19f4867b4550bf5d59f403acc040</sys_id>
+        <sys_metadata>b0a4005687961110ca321f4bbbbb3564</sys_metadata>
+        <sys_name>x_900947_procure_0_school_management</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_parent display_value="x_900947_procure_0_school_management">13948c1687961110ca321f4bbbbb35e8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_scope_delete display_value="">1b67f07c9ab24438a2b3e65098302790</sys_scope_delete>
+        <sys_update_name>sys_security_acl_b0a4005687961110ca321f4bbbbb3564</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_b0a4005687961110ca321f4bbbbb3564">fca4005687961110ca321f4bbbbb3565</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

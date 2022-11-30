@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (School Goods And Services)">bf8605ae87261110ca321f4bbbbb3556</button>
+        <item_parameter display_value="School Goods And Services business_service">738605ae87261110ca321f4bbbbb3556</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 22:04:17</sys_created_on>
+        <sys_id>b78605ae87261110ca321f4bbbbb3590</sys_id>
+        <sys_name>738605ae87261110ca321f4bbbbb3556</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b78605ae87261110ca321f4bbbbb3590</sys_update_name>
+        <ui_parameter display_value="Service">ff8605ae87261110ca321f4bbbbb358c</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

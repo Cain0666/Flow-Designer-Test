@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>fe2fbbd687221110ca321f4bbbbb35d9</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>procurement-of-supplies-and-services</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-17 16:52:27</sys_created_on>
+        <sys_id>032ffbd6d122111000e09c9308622002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Procurement of Supplies and Services</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_page_registry_032ffbd6d122111000e09c9308622002</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-10-17 16:52:27</sys_updated_on>
+        <title>Procurement of Supplies and Services </title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</application>
+        <file_path/>
+        <instance_id>c9922604db021b80536ad5b0cf961936</instance_id>
+        <instance_name>dev58720</instance_name>
+        <name>sys_ux_page_registry_032ffbd6d122111000e09c9308622002</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>fe2fbbd687221110ca321f4bbbbb35d9</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>procurement-of-supplies-and-services</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-10-17 16:52:27</sys_created_on><sys_id>032ffbd6d122111000e09c9308622002</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Procurement of Supplies and Services</sys_name><sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package><sys_policy/><sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope><sys_update_name>sys_ux_page_registry_032ffbd6d122111000e09c9308622002</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-10-17 16:52:27</sys_updated_on><title>Procurement of Supplies and Services </title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1305491737</payload_hash>
+        <record_name>Procurement of Supplies and Services </record_name>
+        <reverted_from/>
+        <source>b76a143287021110ca321f4bbbbb355d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-23 16:58:35</sys_created_on>
+        <sys_id>dfaf731a87221110ca321f4bbbbb357e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1836b4962780000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>9faf731aca221110f3e2c0684bb4d67e</update_guid>
+        <update_guid_history>9faf731aca221110f3e2c0684bb4d67e:1305491737</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 16:54:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>217d519e470844f09df652a4bf676359</sys_id>
+        <sys_metadata>032ffbd6d122111000e09c9308622002</sys_metadata>
+        <sys_name>Procurement of Supplies and Services</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_scope_delete display_value="">1b67f07c9ab24438a2b3e65098302790</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_032ffbd6d122111000e09c9308622002</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_032ffbd6d122111000e09c9308622002">dfaf731a87221110ca321f4bbbbb357e</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

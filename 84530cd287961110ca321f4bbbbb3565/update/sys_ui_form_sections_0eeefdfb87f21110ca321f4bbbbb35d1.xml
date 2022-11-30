@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0eeefdfb87f21110ca321f4bbbbb35d1" sys_domain="global" table="x_900947_procure_0_add_or_remove_members" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 09:38:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9eeefdfb87f21110ca321f4bbbbb35f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_add_or_remove_members" name="x_900947_procure_0_add_or_remove_members" sys_domain="global" view="Default view">0eeefdfb87f21110ca321f4bbbbb35d1</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_900947_procure_0_add_or_remove_members" sys_domain="global" view="Default view">19baf1b787f21110ca321f4bbbbb35fd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-03 09:38:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 09:38:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1eeefdfb87f21110ca321f4bbbbb35fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_add_or_remove_members" name="x_900947_procure_0_add_or_remove_members" sys_domain="global" view="Default view">0eeefdfb87f21110ca321f4bbbbb35d1</sys_ui_form>
+            <sys_ui_section caption="Add Members" display_value="Add Members" name="x_900947_procure_0_add_or_remove_members" sys_domain="global" view="Default view">c2eefdfb87f21110ca321f4bbbbb35d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-03 09:38:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 09:51:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ae14ebf87f21110ca321f4bbbbb3504</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_900947_procure_0_add_or_remove_members" name="x_900947_procure_0_add_or_remove_members" sys_domain="global" view="Default view">0eeefdfb87f21110ca321f4bbbbb35d1</sys_ui_form>
+            <sys_ui_section caption=" Remove Memebers" display_value=" Remove Memebers" name="x_900947_procure_0_add_or_remove_members" sys_domain="global" view="Default view">75e14ebf87f21110ca321f4bbbbb3502</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-03 09:51:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_900947_procure_0_add_or_remove_members</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-03 09:38:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0eeefdfb87f21110ca321f4bbbbb35d1</sys_id>
+            <sys_name>x_900947_procure_0_add_or_remove_members</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0eeefdfb87f21110ca321f4bbbbb35d1</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

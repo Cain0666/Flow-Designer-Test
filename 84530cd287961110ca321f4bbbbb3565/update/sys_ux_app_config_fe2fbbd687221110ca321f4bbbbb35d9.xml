@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>abc</description>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>landing</landing_path>
+        <name>Procurement of Supplies and Services  Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-17 16:52:26</sys_created_on>
+        <sys_id>fe2fbbd687221110ca321f4bbbbb35d9</sys_id>
+        <sys_name>Procurement of Supplies and Services  Config</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ux_app_config_fe2fbbd687221110ca321f4bbbbb35d9</sys_update_name>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe2fbbd687221110ca321f4bbbbb35d9"/>
+</record_update>

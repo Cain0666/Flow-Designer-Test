@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"icon-Knowledge","Value":"e947","FontColor":"#293e40","FontName":"now-mobile-icons","Shape":"Circle"}</icon>
+        <name>icon-Knowledge</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 22:04:16</sys_created_on>
+        <sys_id>e386c1ae87261110ca321f4bbbbb35d9</sys_id>
+        <sys_name>icon-Knowledge</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_sg_icon_e386c1ae87261110ca321f4bbbbb35d9</sys_update_name>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

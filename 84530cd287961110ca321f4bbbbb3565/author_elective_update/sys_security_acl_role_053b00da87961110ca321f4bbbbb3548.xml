@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 12:50:46</sys_created_on>
+        <sys_id>053b00da87961110ca321f4bbbbb3548</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_900947_procure_0_hospital_management.x_900947_procure_0.user</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_security_acl display_value="x_900947_procure_0_hospital_management">c13b00da87961110ca321f4bbbbb3546</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_053b00da87961110ca321f4bbbbb3548</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 12:50:46</sys_updated_on>
+        <sys_user_role display_value="x_900947_procure_0.user" name="x_900947_procure_0.user">18530cd287961110ca321f4bbbbb3571</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</application>
+        <file_path/>
+        <instance_id>c9922604db021b80536ad5b0cf961936</instance_id>
+        <instance_name>dev58720</instance_name>
+        <name>sys_security_acl_role_053b00da87961110ca321f4bbbbb3548</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-04 12:50:46</sys_created_on><sys_id>053b00da87961110ca321f4bbbbb3548</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_900947_procure_0_hospital_management.x_900947_procure_0.user</sys_name><sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package><sys_policy/><sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope><sys_security_acl display_value="x_900947_procure_0_hospital_management">c13b00da87961110ca321f4bbbbb3546</sys_security_acl><sys_update_name>sys_security_acl_role_053b00da87961110ca321f4bbbbb3548</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-04 12:50:46</sys_updated_on><sys_user_role display_value="x_900947_procure_0.user" name="x_900947_procure_0.user">18530cd287961110ca321f4bbbbb3571</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>2126889105</payload_hash>
+        <record_name>x_900947_procure_0_hospital_management.x_900947_procure_0.user</record_name>
+        <reverted_from/>
+        <source>c0530cd287961110ca321f4bbbbb3567</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 12:50:46</sys_created_on>
+        <sys_id>053b00da87961110ca321f4bbbbb354a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a30c76ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 12:50:46</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4d3b00da5c961110c77337a709823149</update_guid>
+        <update_guid_history>4d3b00da5c961110c77337a709823149:2126889105</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_900947_procure_0_hospital_management.x_900947_procure_0.user">d426f07e87521110ca321f4bbbbb35ce</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-06 05:15:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>03472143391047bc8c39d49a4e366790</sys_id>
+        <sys_metadata>053b00da87961110ca321f4bbbbb3548</sys_metadata>
+        <sys_name>x_900947_procure_0_hospital_management.x_900947_procure_0.user</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_scope_delete display_value="">1b67f07c9ab24438a2b3e65098302790</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_053b00da87961110ca321f4bbbbb3548</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_053b00da87961110ca321f4bbbbb3548">053b00da87961110ca321f4bbbbb354a</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

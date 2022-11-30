@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Procurement of Goods and Services">be3b6a2a87aa1110ca321f4bbbbb352f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Hospital Goods/Service Requests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_900947_procure_0_hospital_management</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_900947_procure_0.Government Body,x_900947_procure_0.Government Manager,x_900947_procure_0.Hospital Body,x_900947_procure_0.Vendor,x_900947_procure_0.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-18 05:27:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>80bb226a87aa1110ca321f4bbbbb352a</sys_id>
+        <sys_name>Hospital Goods/Service Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_app_module_80bb226a87aa1110ca321f4bbbbb352a</sys_update_name>
+        <timeline_page/>
+        <title>Hospital Goods/Service Requests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

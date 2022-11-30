@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>test - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="test">d334596187b21110ca321f4bbbbb35b4</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-27 06:46:45</sys_created_on>
+        <sys_id>c1741d6187b21110ca321f4bbbbb351f</sys_id>
+        <sys_name>test - Container 1</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sp_container_c1741d6187b21110ca321f4bbbbb351f</sys_update_name>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

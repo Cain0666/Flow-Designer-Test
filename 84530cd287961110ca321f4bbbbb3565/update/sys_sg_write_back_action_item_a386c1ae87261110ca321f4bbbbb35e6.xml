@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New</name>
+        <parameter_screen/>
+        <query_condition table="x_900947_procure_0_school_management">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 22:04:17</sys_created_on>
+        <sys_id>a386c1ae87261110ca321f4bbbbb35e6</sys_id>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_a386c1ae87261110ca321f4bbbbb35e6</sys_update_name>
+        <table>x_900947_procure_0_school_management</table>
+        <template>priority={{School Goods And Services priority}}^state={{School Goods And Services state}}^short_description={{School Goods And Services short_description}}^description={{School Goods And Services description}}^assigned_to={{School Goods And Services assigned_to}}^assignment_group={{School Goods And Services assignment_group}}^company={{School Goods And Services company}}^location={{School Goods And Services location}}^cmdb_ci={{School Goods And Services cmdb_ci}}^business_service={{School Goods And Services business_service}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=a386c1ae87261110ca321f4bbbbb35e6"/>
+</record_update>

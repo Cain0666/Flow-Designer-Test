@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>u_t_staff</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 05:56:49</sys_created_on>
+        <sys_id>43293f2487e69110ca321f4bbbbb3569</sys_id>
+        <sys_name>u_t_staff</sys_name>
+        <sys_package display_value="Procurement of Supplies and Services " source="x_900947_procure_0">84530cd287961110ca321f4bbbbb3565</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement of Supplies and Services ">84530cd287961110ca321f4bbbbb3565</sys_scope>
+        <sys_update_name>sys_ui_policy_action_43293f2487e69110ca321f4bbbbb3569</sys_update_name>
+        <table>x_900947_procure_0_school_management</table>
+        <ui_policy display_value="Wont be able to edit the number after the amount is requested ">8b293f2487e69110ca321f4bbbbb3566</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
